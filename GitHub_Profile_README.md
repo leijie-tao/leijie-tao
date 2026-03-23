@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Pixel art banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a3a5c&height=180&section=header&text=Hello%20World!%20🎮&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=I'm%20[Your%20Name]%20—%20Full%20Stack%20Developer&descSize=16&descColor=8bb8e8&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a3a5c&height=180&section=header&text=Hello%20World!%20🎮&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=I'm%20Leijie%20Tao%20—%20Full%20Stack%20Developer&descSize=16&descColor=8bb8e8&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=%3E+Full+Stack+Developer;%3E+Code+%2B+Coffee+%3D+Magic;%3E+Bugs+are+just+surprise+features;%3E+Loading+awesome+projects..." alt="Typing SVG" />
@@ -24,7 +24,7 @@
 ```
 
 - 🔭 Currently working on **vibe coding**
-- 🌱 Learning **developing products by myself** 
+- 🌱 Learning **developing products by myself**
 - 💬 Ask me about **Combining business and tech**
 - 🎯 2026 Goals: Contribute more to open source!
 
@@ -35,7 +35,7 @@
 <div align="center">
 
 ### 🎨 Frontend
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -56,7 +56,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
-
 </div>
 
 ---
@@ -65,12 +64,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true&title_color=1a3a5c&icon_color=4A90D9&text_color=333333" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true&title_color=1a3a5c&text_color=333333" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leijie-tao&show_icons=true&theme=buefy&hide_border=true&title_color=1a3a5c&icon_color=4A90D9&text_color=333333" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leijie-tao&layout=compact&theme=buefy&hide_border=true&title_color=1a3a5c&text_color=333333" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=buefy&hide_border=true&ring=4A90D9&fire=1a3a5c&currStreakLabel=1a3a5c" />
+<img src="https://streak-stats.demolab.com/?user=leijie-tao&theme=buefy&hide_border=true&ring=4A90D9&fire=1a3a5c&currStreakLabel=1a3a5c" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&color=1a3a5c&line=4A90D9&point=1a3a5c" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leijie-tao&theme=minimal&hide_border=true&color=1a3a5c&line=4A90D9&point=1a3a5c" />
 
 </div>
 
@@ -101,9 +100,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1a3a5c?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/taoleijie)
-[![Email](https://img.shields.io/badge/-Email-4A90D9?style=flat-square&logo=gmail&logoColor=white)](taoleijie623@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taoleijie)
+[![Email](https://img.shields.io/badge/-Email-4A90D9?style=flat-square&logo=gmail&logoColor=white)](mailto:taoleijie623@gmail.com)
 
 </div>
 
@@ -113,7 +111,7 @@
 
 ### ✨ Thanks for visiting! Have a wonderful day! ✨
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1a3a5c&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=leijie-tao&color=1a3a5c&style=flat-square&label=Profile+Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a3a5c&height=120&section=footer" />
 
