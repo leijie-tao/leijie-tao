@@ -58,7 +58,7 @@ Always open to SWE internship opportunities, collaborations, or conversations ab
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=leijie-tao&theme=default&hide_border=true&timezone=America%2FLos_Angeles" />
+  <img src="https://streak-stats.demolab.com?user=leijie-tao&theme=default&hide_border=true&timezone=America/Los_Angeles" />
 </p>
 
 
