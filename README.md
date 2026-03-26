@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Pixel art banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a3a5c&height=180&section=header&text=Hello%20World!%20🎮&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=I'm%20Leijie%20Tao%20—%20Full%20Stack%20Developer&descSize=16&descColor=8bb8e8&descAlignY=55&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a3a5c&height=180&section=header&text=Hello%20World!%20🎮&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=I'm%20Leijie%20Tao%20—%20CS%20Student&descSize=16&descColor=8bb8e8&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=%3E+Full+Stack+Developer;%3E+Code+%2B+Coffee+%3D+Magic;%3E+Bugs+are+just+surprise+features;%3E+Loading+awesome+projects..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=%3E+Full+Stack+Developer;%3E+Code+%2B+AI+%3D+Magic;%3E+Bugs+are+just+surprise+features;%3E+Loading+awesome+projects..." alt="Typing SVG" />
 
 </div>
 
@@ -12,21 +12,11 @@
 
 ## 🎮 About Me
 
-```
-╔══════════════════════════════════════════╗
-║  > name:       Leijie Tao                ║
-║  > location:   San Jose                 ║
-║  > mood:       ☕ Caffeinated & Coding   ║
-║  > hp:         ██████████░░ 83%         ║
-║  > fun_fact:   Turning coffee into code  ║
-║                that changes the world.   ║
-╚══════════════════════════════════════════╝
-```
-
-- 🔭 Currently working on **vibe coding**
-- 🌱 Learning **developing products by myself**
-- 💬 Ask me about **Combining business and tech**
-- 🎯 2026 Goals: Contribute more to open source!
+### Hi, I'm Leijie 👋  
+MS in Computer Science @ Northeastern University, Silicon Valley.
+I transitioned into tech from a business background — 2 years of data-driven investment analysis taught me to think in user needs and outcomes before writing code. Now I'm combining that analytical mindset with hands-on software engineering skills.
+I passionate about the intersection of AI and software engineering — I believe AI is fundamentally reshaping how we build products, and I want to be part of that shift.
+Always open to SWE internship opportunities, collaborations, or conversations about AI and tech. Let's connect!
 
 ---
 
@@ -62,16 +52,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leijie-tao&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&timezone=America%2FLos_Angeles" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leijie-tao&layout=compact&theme=default&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leijie-tao&show_icons=true&theme=buefy&hide_border=true&title_color=1a3a5c&icon_color=4A90D9&text_color=333333" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leijie-tao&layout=compact&theme=buefy&hide_border=true&title_color=1a3a5c&text_color=333333" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=leijie-tao&theme=default&hide_border=true&timezone=America%2FLos_Angeles" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=leijie-tao&theme=buefy&hide_border=true&ring=4A90D9&fire=1a3a5c&currStreakLabel=1a3a5c" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leijie-tao&theme=minimal&hide_border=true&color=1a3a5c&line=4A90D9&point=1a3a5c" />
-
-</div>
 
 ---
 
