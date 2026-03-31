@@ -16,7 +16,9 @@
 MS in Computer Science @ Northeastern University, Silicon Valley.
 I transitioned into tech from a business background — 2 years of data-driven investment analysis taught me to think in user needs and outcomes before writing code. Now I'm combining that analytical mindset with hands-on software engineering skills.
 I passionate about the intersection of AI and software engineering — I believe AI is fundamentally reshaping how we build products, and I want to be part of that shift.
-Always open to SWE internship opportunities, collaborations, or conversations about AI and tech. Let's connect!
+Always open to SWE internship opportunities, collaborations, or conversations about AI and tech. Let's connect!  
+
+Welcome to my profile website: https://leijie-tao.github.io/My-Profile-Web/  
 
 ---
 
@@ -64,33 +66,12 @@ Always open to SWE internship opportunities, collaborations, or conversations ab
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/leijie-tao/Real_Estate_Market_Data_Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leijie-tao&repo=Real_Estate_Market_Data_Analysis&theme=buefy&hide_border=true&title_color=1a3a5c&icon_color=4A90D9&text_color=333333" />
-</a>
-<a href="https://github.com/leijie-tao/Market-Lens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leijie-tao&repo=Market-Lens&theme=buefy&hide_border=true&title_color=1a3a5c&icon_color=4A90D9&text_color=333333" />
-</a>
-<a href="https://github.com/leijie-tao/MyEmployeeSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leijie-tao&repo=MyEmployeeSystem&theme=buefy&hide_border=true&title_color=1a3a5c&icon_color=4A90D9&text_color=333333" />
-</a>
-<a href="https://github.com/leijie-tao/Leetcode-Practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leijie-tao&repo=Leetcode-Practice&theme=buefy&hide_border=true&title_color=1a3a5c&icon_color=4A90D9&text_color=333333" />
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taoleijie)
-[![Email](https://img.shields.io/badge/-Email-4A90D9?style=flat-square&logo=gmail&logoColor=white)](mailto:taoleijie623@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-4A90D9?style=flat-square&logo=gmail&logoColor=white)](mailto:tao.lei@northeastern.edu)
 
 </div>
 
